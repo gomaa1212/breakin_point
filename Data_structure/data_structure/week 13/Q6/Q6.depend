@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1722608785 source:c:\users\abdoe\onedrive\desktop\breakin\data_structure\data_structure\q6\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Stack.h"
+
+1722608872 source:c:\users\abdoe\onedrive\desktop\breakin\data_structure\data_structure\q6\stack.c
+	"Stack.h"
+
+1722608722 c:\users\abdoe\onedrive\desktop\breakin\data_structure\data_structure\q6\stack.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
