@@ -1,0 +1,45 @@
+# depslib dependency file v1.0
+1722966467 source:c:\users\abdoe\onedrive\desktop\breakin\data_structure\data_structure\week14\queu\queu.c
+	"queu.h"
+
+1722963510 c:\users\abdoe\onedrive\desktop\breakin\data_structure\data_structure\week14\queu\queu.h
+	"global.h"
+
+1722966951 source:c:\users\abdoe\onedrive\desktop\breakin\data_structure\data_structure\week14\queu\main.c
+	<stdio.h>
+	<stdlib.h>
+	"queu.h"
+	"Stack.h"
+
+1722963905 c:\users\abdoe\onedrive\desktop\breakin\data_structure\data_structure\week14\queu\global.h
+
+1722967068 source:c:\users\abdoe\onedrive\desktop\breakin\data_structure\data_structure\week14\queu\stack.c
+	"Stack.h"
+
+1722967003 c:\users\abdoe\onedrive\desktop\breakin\data_structure\data_structure\week14\queu\stack.h
+	<stdio.h>
+	<stdlib.h>
+	"global.h"
+
+1722967663 source:c:\users\abdoe\onedrive\desktop\breakin\data_structure\data_structure\week14\small queu & stack project\main.c
+	<stdio.h>
+	<stdlib.h>
+	"queu.h"
+	"Stack.h"
+
+1722963510 c:\users\abdoe\onedrive\desktop\breakin\data_structure\data_structure\week14\small queu & stack project\queu.h
+	"global.h"
+
+1722963905 c:\users\abdoe\onedrive\desktop\breakin\data_structure\data_structure\week14\small queu & stack project\global.h
+
+1722967003 c:\users\abdoe\onedrive\desktop\breakin\data_structure\data_structure\week14\small queu & stack project\stack.h
+	<stdio.h>
+	<stdlib.h>
+	"global.h"
+
+1722966467 source:c:\users\abdoe\onedrive\desktop\breakin\data_structure\data_structure\week14\small queu & stack project\queu.c
+	"queu.h"
+
+1722967068 source:c:\users\abdoe\onedrive\desktop\breakin\data_structure\data_structure\week14\small queu & stack project\stack.c
+	"Stack.h"
+

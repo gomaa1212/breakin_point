@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1723152184 source:c:\users\abdoe\onedrive\desktop\breakin\data_structure\data_structure\week14\queu_using_stack\main.c
+	<stdio.h>
+	<stdlib.h>
+	"queu_using_stack.h"
+
+1723152447 source:c:\users\abdoe\onedrive\desktop\breakin\data_structure\data_structure\week14\queu_using_stack\queu_using_stack.c
+	"queu_using_stack.h"
+
+1723149012 source:c:\users\abdoe\onedrive\desktop\breakin\data_structure\data_structure\week14\queu_using_stack\stack.c
+	<stdio.h>
+	"Stack.h"
+
+1723149011 c:\users\abdoe\onedrive\desktop\breakin\data_structure\data_structure\week14\queu_using_stack\stack.h
+
+1723152801 c:\users\abdoe\onedrive\desktop\breakin\data_structure\data_structure\week14\queu_using_stack\queu_using_stack.h
+	<Stack.h>
+

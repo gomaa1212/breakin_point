@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1723140354 source:c:\users\abdoe\onedrive\desktop\breakin\data_structure\data_structure\week14\linked_queu\linked_queu.c
+	"linked_queu.h"
+	<stdio.h>
+	<stdlib.h>
+
+1723140513 c:\users\abdoe\onedrive\desktop\breakin\data_structure\data_structure\week14\linked_queu\linked_queu.h
+
+1723138461 source:c:\users\abdoe\onedrive\desktop\breakin\data_structure\data_structure\week14\linked_queu\main.c
+	<stdio.h>
+	<stdlib.h>
+	"linked_queu.h"
+

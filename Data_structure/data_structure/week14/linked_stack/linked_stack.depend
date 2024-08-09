@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1723062998 source:c:\users\abdoe\onedrive\desktop\breakin\data_structure\data_structure\week14\linked_stack\stack.c
+	<stdio.h>
+	"Stack.h"
+
+1723063009 source:c:\users\abdoe\onedrive\desktop\breakin\data_structure\data_structure\week14\linked_stack\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Stack.h"
+
+1723062469 c:\users\abdoe\onedrive\desktop\breakin\data_structure\data_structure\week14\linked_stack\stack.h
+
