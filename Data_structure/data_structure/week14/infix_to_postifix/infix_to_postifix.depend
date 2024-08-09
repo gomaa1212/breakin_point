@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1723062998 source:c:\users\abdoe\onedrive\desktop\breakin\data_structure\data_structure\week14\linked_stack\stack.c
+	<stdio.h>
+	"Stack.h"
+
+1723062469 c:\users\abdoe\onedrive\desktop\breakin\data_structure\data_structure\week14\linked_stack\stack.h
+
+1723227175 source:c:\users\abdoe\onedrive\desktop\breakin\data_structure\data_structure\week14\infix_to_postifix\main.c
+	<stdio.h>
+	<stdlib.h>
+	"linked_stack.h"
+	<string.h>
+
+1723227056 c:\users\abdoe\onedrive\desktop\breakin\data_structure\data_structure\week14\infix_to_postifix\linked_stack.h
+
+1723227056 source:c:\users\abdoe\onedrive\desktop\breakin\data_structure\data_structure\week14\infix_to_postifix\linked_stack.c
+	<stdio.h>
+	"linked_stack.h"
+
