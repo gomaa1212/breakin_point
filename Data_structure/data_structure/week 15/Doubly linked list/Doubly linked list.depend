@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1723616182 source:c:\users\abdoe\onedrive\desktop\breakin\data_structure\data_structure\week 15\doubly linked list\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1723616182 source:c:\users\abdoe\onedrive\desktop\breakin\data_structure\data_structure\week 15\doubly linked list\doubly.c
+	"doubly.h"
+	<stdio.h>
+	<stdlib.h>
+
+1723616520 c:\users\abdoe\onedrive\desktop\breakin\data_structure\data_structure\week 15\doubly linked list\doubly.h
+

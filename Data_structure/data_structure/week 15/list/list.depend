@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1723701801 source:c:\users\abdoe\onedrive\desktop\breakin\data_structure\data_structure\week 15\list\main.c
+	<stdio.h>
+	<stdlib.h>
+	"list.h"
+
+1723701681 c:\users\abdoe\onedrive\desktop\breakin\data_structure\data_structure\week 15\list\list.h
+
+1723701681 source:c:\users\abdoe\onedrive\desktop\breakin\data_structure\data_structure\week 15\list\list.c
+	"list.h"
+	<stdio.h>
+	<stdlib.h>
+

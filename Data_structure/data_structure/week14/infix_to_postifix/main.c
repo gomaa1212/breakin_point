@@ -6,7 +6,7 @@ int main()
 {
     char infix[20];
     printf("enter infix expression : ");
-    scanf("%s",infix);
+    gets(infix);
     char postifix[20];
     intoprefix(infix,postifix);
     printf(" postifix = %s",postifix);
